@@ -1,0 +1,5 @@
+# Ignore environment files for AI detection
+.venv/
+__pycache__/
+.env
+uploaded_images/
